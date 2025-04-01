@@ -1,0 +1,2 @@
+C:\_Dan_Work\_XLab_prj_01\C#\ConsoleApp_XLab_01\obj\Debug\ConsoleApp_XLab_01.csproj.AssemblyReference.cache
+C:\_Dan_Work\_XLab_prj_01\C#\ConsoleApp_XLab_01\obj\Debug\ConsoleApp_XLab_01.csproj.CoreCompileInputs.cache
