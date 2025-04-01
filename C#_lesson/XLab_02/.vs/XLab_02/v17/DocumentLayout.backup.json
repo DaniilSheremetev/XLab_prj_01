@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\_Dan_Work\\_XLab_prj_02\\C#\\XLab_02\\",
+  "WorkspaceRootPath": "C:\\_Dan_Work\\_XLab_prj_01\\Xlab_prj_01_git\\XLab_prj_01\\C#_lesson\\XLab_02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0884921-9824-4D19-85CF-2665CC769707}|XLab_02.csproj|c:\\_dan_work\\_xlab_prj_02\\c#\\xlab_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0884921-9824-4D19-85CF-2665CC769707}|XLab_02.csproj|c:\\_dan_work\\_xlab_prj_01\\xlab_prj_01_git\\xlab_prj_01\\c#_lesson\\xlab_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0884921-9824-4D19-85CF-2665CC769707}|XLab_02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,18 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\_Dan_Work\\_XLab_prj_02\\C#\\XLab_02\\Program.cs",
+              "DocumentMoniker": "C:\\_Dan_Work\\_XLab_prj_01\\Xlab_prj_01_git\\XLab_prj_01\\C#_lesson\\XLab_02\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\_Dan_Work\\_XLab_prj_02\\C#\\XLab_02\\Program.cs",
+              "ToolTip": "C:\\_Dan_Work\\_XLab_prj_01\\Xlab_prj_01_git\\XLab_prj_01\\C#_lesson\\XLab_02\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-01T13:32:44.211Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
